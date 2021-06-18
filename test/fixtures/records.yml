@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car_id: 1
+  mileage: 1
+  service: MyString
+  car: one
+
+two:
+  car_id: 1
+  mileage: 1
+  service: MyString
+  car: two
