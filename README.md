@@ -1,24 +1,16 @@
-# README
+My Garage
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The My Garage app was created so that you can keep track of your car's maintenance records.  The app allows you to add a car to the database.  Once a car has been added to the database, you will be able to view all of the maintenance records on file for that specific vehicle.  If you sell or lose your car, you can also delete the car from your database.
 
-Things you may want to cover:
+Installation
+Clone the front end repo, which can be found here: https://github.com/Michael-Werling92/My_Garage_Frontend
+Run 'npx serve' to get this front end setup running.
+Clone this repo.
+Run rails s on this repo to get the back end setup running.
+Open your browser to localhost:5000
 
-* Ruby version
+Contributing
+Please contact Michael Werling at mfw6mw@virginia.edu if you have any suggestions or contributions to make this application run better or have more functionality.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+License
+This application is available as open source under the terms of the MIT License.
